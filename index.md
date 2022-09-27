@@ -8,8 +8,10 @@ updated: <i>Sep-24-2022</i>
 # General information
 
 This pipeline relates to data related to the UK Biobank and human
-genetics analyses in our paper. It also contains additional
-supplementary materials.
+genetics analyses in our manuscript with the title "Tribbles upregulation
+decreases body weight and increases sleep duration" by Rebeka Popovic,
+Yizhou Yu, Nuno Santos Leal, Giorgio Fedele, Samantha H. Y. Loh and L. Miguel Martins.
+It also contains additional supplementary materials.
 
 The input files for this analysis pipeline are on the master branch of
 this GitHub page (link: <https://github.com/M1gus/Tribbles-sleep/>)
