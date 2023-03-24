@@ -13,6 +13,8 @@ decreases body weight and increases sleep duration" by Rebeka Popovic,
 Yizhou Yu, Nuno Santos Leal, Giorgio Fedele, Samantha H. Y. Loh and L. Miguel Martins.
 It also contains additional supplementary materials.
 
+The aim of the workflow is to investigate links between single nucleotide polymorphisms in the *TRIB* gene, sleep and obesity. The hypothesis is based on our observations in fruit flies where we observed that higher levels of this gene decreased body weight and increased sleep duration.
+
 The input files for this analysis pipeline are on the master branch of
 this GitHub page (link: <https://github.com/M1gus/Tribbles-sleep/>)
 
